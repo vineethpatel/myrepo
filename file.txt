@@ -1,0 +1,3 @@
+Hi this is my first program 
+editing in git local repo
+adding line
